@@ -1,9 +1,0 @@
-# DataSet
-
-the loan data that we are gaven is sample of larger data set that 
-belong to affiliate bank based in united state there for all the  values 
-in dollars so we need to provide their Eure equivilence and every categorical 
-variable must be quantified ,
-we will clean and preprocess this data  to deliver  it to datascience team 
-who will use this  data to create a credit risk model which estemate 
-the probability of default for every person account 
